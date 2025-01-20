@@ -19,7 +19,7 @@
 npm install
 
 # Запуск в режиме разработки
-npm run install
+npm run start
 
 # Запуск тестов
 npm test
